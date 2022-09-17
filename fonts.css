@@ -1,0 +1,41 @@
+@font-face {
+  font-family:"trade gothic next condensed";
+  src:url("https://use.typekit.net/af/40e706/00000000000000007735ba54/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff2"),
+      url("https://use.typekit.net/af/40e706/00000000000000007735ba54/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff"),
+      url("https://use.typekit.net/af/40e706/00000000000000007735ba54/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("opentype");
+  font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
+  }
+  
+  @font-face {
+  font-family:"cormorant garamond";
+  src:url("https://use.typekit.net/af/bd8216/00000000000000007735b886/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff2"),
+      url("https://use.typekit.net/af/bd8216/00000000000000007735b886/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff"),
+      url("https://use.typekit.net/af/bd8216/00000000000000007735b886/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("opentype");
+  font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+  }
+  
+  @font-face {
+  font-family:"cormorant garamond";
+  src:url("https://use.typekit.net/af/a44545/00000000000000007735b887/30/l?subset_id=2&fvd=i5&v=3") format("woff2"),
+      url("https://use.typekit.net/af/a44545/00000000000000007735b887/30/d?subset_id=2&fvd=i5&v=3") format("woff"),
+      url("https://use.typekit.net/af/a44545/00000000000000007735b887/30/a?subset_id=2&fvd=i5&v=3") format("opentype");
+  font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
+  }
+  
+  @font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url("https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXp-p7K4KLjztg.woff2") format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+  /* latin */
+  @font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url("https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aXp-p7K4KLg.woff2") format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
