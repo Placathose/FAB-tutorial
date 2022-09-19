@@ -3,14 +3,17 @@ const swiper = new Swiper('.swiper', {
   fadeEffect: {
     crossFade: true
   },
-  navigation: {
-    nextEl: '.right',
-    prevEl: '.left',
-  },
+  // navigation: {
+  //   nextButton: '.right',
+  //   prevButton: '.left',
+  // },
   pagination: {
     el: '.pagination',
     type: 'bullets'
   },
-  observer: true,
+  nextButton: '.right',
+  prevButton: '.left',
+  // observer: true,
+  // observeSlideChildren: true,
   // observeParents: true,
 });
